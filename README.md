@@ -44,4 +44,4 @@ _**In this code, you performed the following steps:**_
 13. Created a logistic regression model using LogisticRegression from scikit-learn.
 14. Fit the logistic regression model on the training data.
 15. Predicted the churn values for the test set.
-16. Evaluated the model's performance using accuracy, precision, weights.
+16. Evaluated the model's performance using accuracy, precision, weights and visualized the correlations.
