@@ -45,3 +45,8 @@ _**In this code, you performed the following steps:**_
 14. Fit the logistic regression model on the training data.
 15. Predicted the churn values for the test set.
 16. Evaluated the model's performance using accuracy, precision, weights and visualized the correlations.
+
+**License**
+The source code in this repository is provided under the MIT License. However, the dataset and any other proprietary information used in training the model might have different licensing terms. Make sure to comply with the relevant licenses when using the code and data.
+
+
